@@ -33,6 +33,11 @@ Have also been involved in personal research on Machine Learning and Deep Learni
   <img src="https://img.shields.io/badge/ExpressJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
   <img src="https://img.shields.io/badge/Flask-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-informational" />
+  <img src="https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
+  <img src="https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-3fedff" />
+  <img src="https://img.shields.io/badge/DynamoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-important" /> 
+  <img src="https://img.shields.io/badge/Firestore-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-01d9ff" /> 
+  <img src="https://img.shields.io/badge/Firebase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-c40f2e" />
 </p>
 
 <p>You can find the list of open source projects I have been a part of :point_down:</p>
