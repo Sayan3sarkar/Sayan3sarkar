@@ -9,4 +9,4 @@ I am a software architect with experience and expertise in designing(HLD and LLD
 
 ## Key skills
 
-📖 ` Node / Express/ MongoDB / FireStore/ Firebase/ DynamoDB / MySQL / Oracle`
+📖 ` Node / Express/ MySQL/ Redis/ AWS/ Docker/ Kubernetes`
