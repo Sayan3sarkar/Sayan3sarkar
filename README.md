@@ -5,8 +5,8 @@
 
 ### Hi there 👋 
 
-I am a Backend Engineer having several years of experience in designing and developing robust, scalable, fault tolerant and high performance distributed systems. Building microservices and working on Event Driven Architecture based applications is my key area of interest, alongside working with Distributed Databases
+I am a Backend Engineer with extensive experience in designing and scaling distributed systems
 
 ## Key skills
 
-📖 ` Node / Express/ PostgreSQL/ MySQL/ NestJS/ Redis/ AWS/ Docker`
+📖 ` Node / Typescript / Microservices / Distributed Systems / Streaming / DRM / CWIP / AWS/ Databases / Docker / Redis / Python`
